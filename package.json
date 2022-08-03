@@ -1,0 +1,30 @@
+{
+  "name": "governance-panel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.4",
+    "@chakra-ui/react": "^2.2.4",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@polkadot/api": "^8.11.2",
+    "@polkadot/keyring": "^9.7.2",
+    "@polkadot/react-identicon": "^2.7.2",
+    "async": ">=3.2.2",
+    "bn.js": "^5.2.1",
+    "framer-motion": "^6.5.1",
+    "moment": "^2.29.4",
+    "next": "12.2.3",
+    "react": "18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
